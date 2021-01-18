@@ -1,3 +1,4 @@
+Cloned from AirBnB's HorizonCalendar to fix one tiny thing. Please use AirBnB's repo and not this one.
 # HorizonCalendar
 A declarative, performant, calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 

@@ -835,7 +835,7 @@ final class VisibleItemsProvider {
             styleID: "PinnedDaysOfTheWeekRowBackground",
             buildView: { [unowned self] in
               let view = UIView()
-              view.backgroundColor = backgroundColor
+				view.backgroundColor = self.backgroundColor
               return view
             },
             updateViewModel: { _, _ in })),
